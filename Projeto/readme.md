@@ -4,10 +4,10 @@ Trabalho do curso de Engenharia de Software II.
 
 ## Membros do Grupo
 
-Eduardo Steiner Hessel 
-Gabriel Esnack Bergara da Silva 
-Gabriel Jorge Pereira 
-Luiz Gustavo Mesquita de Oliveira 
-Maurício Tozzi 
+Eduardo Steiner Hessel <br/>
+Gabriel Esnack Bergara da Silva <br/>
+Gabriel Jorge Pereira <br/>
+Luiz Gustavo Mesquita de Oliveira <br/>
+Maurício Tozzi <br/>
 
 
